@@ -7,15 +7,18 @@ Requirements
 
 Steps to run
 
-ensure you run these command 
+Ensure you run these command 
+```ruby
+
 pip install streamlit
-
+```
+```ruby
 pip install sql
-
+```
+```ruby
 pip install sql-connector
-
-open folder in VScode and open terminal
-
-run
-
+```
+Open folder in VScode and open terminal run
+```ruby
 streamlit run app.py
+```
